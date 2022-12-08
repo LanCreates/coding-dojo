@@ -1,0 +1,6 @@
+HCK => Hackerrank
+CDF => Codeforces
+SLF => Self Training
+
+Additions:
+CNT => Picked from contest
